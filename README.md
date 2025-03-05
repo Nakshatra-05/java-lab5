@@ -23,6 +23,7 @@ A Java-based menu-driven application that allows users to calculate the area and
 
 # 🛠️ Run
 1️⃣ Compile & Run
+
 javac -d . shapes/*.java Main.java 
 
 java Main  
