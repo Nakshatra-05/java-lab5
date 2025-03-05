@@ -21,9 +21,10 @@ A Java-based menu-driven application that allows users to calculate the area and
 ✅ User Input Support – Enter dimensions and get real-time calculations.
 ✅ Menu-Driven Interface – Select and calculate shape properties interactively.
 
-# 🛠️ Installation & Run
+# 🛠️ Run
 1️⃣ Compile & Run
-javac -d . shapes/*.java Main.java  
+javac -d . shapes/*.java Main.java 
+
 java Main  
 # 📝 Usage
 1️⃣ Run the program.
