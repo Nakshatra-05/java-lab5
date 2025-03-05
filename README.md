@@ -29,8 +29,11 @@ javac -d . shapes/*.java Main.java
 java Main  
 # 📝 Usage
 1️⃣ Run the program.
+
 2️⃣ Choose a shape from the menu.
+
 3️⃣ Enter the required dimensions.
+
 4️⃣ Get the area or volume based on the shape type.
 
 # 📌 Example Output
